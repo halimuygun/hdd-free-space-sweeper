@@ -12,6 +12,7 @@ HDD Free Space Sweeper
 > - https://www.virustotal.com/gui/file/ccc4d8637fbc33647f4407b018f098e7f8875cdf3c1f41e70dd0ae3c65f4fae6/detection
 
 Required: .Net Framework 4 
+
 File Size: File size	618.91 KB (633760 bytes)
 
 For more information please visit: www.halimuygun.com
