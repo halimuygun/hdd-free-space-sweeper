@@ -8,7 +8,7 @@ HDD Free Space Sweeper
 
 Required: .Net Framework 4 
 
-File Size: File size	618.91 KB (633760 bytes)
+File Size: 618.91 KB (633760 bytes)
 
 For more information please visit: www.halimuygun.com
 
