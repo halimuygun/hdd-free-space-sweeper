@@ -1,5 +1,7 @@
 # hdd-free-space-sweeper
 
+![alt text](https://github.com/halimuygun/hdd-free-space-sweeper/raw/main/Screenshot_2.png?raw=true)
+
 HDD Free Space Sweeper
 
  - This program cleans up free space on your disk.
