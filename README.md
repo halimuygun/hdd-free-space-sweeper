@@ -10,11 +10,11 @@ HDD Free Space Sweeper
 
 Required: .Net Framework 4 
 
-File Size: 618.91 KB (633760 bytes)
+File Size: 619.41 KB (634272 bytes)
 
 For more information please visit: www.halimuygun.com
 
-> - MD5:	29822751ea200d43e6b6861c3f598328
-> - SHA-1:	c04075840b0cd2a6d4a9f2b6ca81988ba436b7a0
-> - SHA-256:	ccc4d8637fbc33647f4407b018f098e7f8875cdf3c1f41e70dd0ae3c65f4fae6
-> - https://www.virustotal.com/gui/file/ccc4d8637fbc33647f4407b018f098e7f8875cdf3c1f41e70dd0ae3c65f4fae6/detection
+> - MD5:	6de714f9aff33613cdc06603d4ab76c3
+> - SHA-1:	d8a404d65b9a3900dfb0a2797e14a1d345443815
+> - SHA-256:	75c8ddffae646e2480d9502aa58992e02c79718d7a8b684994364c0661b3e926
+> - https://www.virustotal.com/gui/file/75c8ddffae646e2480d9502aa58992e02c79718d7a8b684994364c0661b3e926/detection
