@@ -14,7 +14,7 @@ File Size: 619.41 KB (634272 bytes)
 
 For more information please visit: www.halimuygun.com
 
-> - MD5:	6de714f9aff33613cdc06603d4ab76c3
-> - SHA-1:	d8a404d65b9a3900dfb0a2797e14a1d345443815
-> - SHA-256:	75c8ddffae646e2480d9502aa58992e02c79718d7a8b684994364c0661b3e926
-> - https://www.virustotal.com/gui/file/75c8ddffae646e2480d9502aa58992e02c79718d7a8b684994364c0661b3e926/detection
+> - MD5:	1fb83dbbbcf52b8a134475877081c0f4
+> - SHA-1:	131bab18b3d97f724adb9cb9ed64fcc6f45aa15e
+> - SHA-256:	69456bce61a525e5c50db29e6de3467de66adbec164a87c2bbce7f86fa4592f2
+> - https://www.virustotal.com/gui/file/69456bce61a525e5c50db29e6de3467de66adbec164a87c2bbce7f86fa4592f2/detection
